@@ -1,0 +1,324 @@
+    [
+    {
+        "name": "Civil Hospital Dalhousie",
+        "district": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.545323,
+        "lon": 75.9405768
+    },
+    {
+        "name": "Civil Hospital Tissa",
+        "district": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.833684,
+        "lon": 76.1564219
+    },
+    {
+        "name": "Zonal Hospital Dharamsala",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.2127283,
+        "lon": 76.3195375
+    },
+    {
+        "name": "Civil Hospital Nurpur",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.3068426,
+        "lon": 75.8943791
+    },
+    {
+        "name": "Civil Hospital Dehra",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.8819861,
+        "lon": 76.2127669
+    },
+    {
+        "name": "Civil Hospital KANGRA",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.1029894,
+        "lon": 76.2729831
+    },
+    {
+        "name": "Civil Hospital Baijnath",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.0511642,
+        "lon": 76.6428633
+    },
+    {
+        "name": "Civil Hospital  THURAL",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.9254151,
+        "lon": 76.459592
+    },
+    {
+        "name": "COMMUNITY HEALTH CENTRE Jawalamukhi",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.8680889,
+        "lon": 76.3212128
+    },
+    {
+        "name": "COMMUNITY HEALTH CENTRE Jawali",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.1427307,
+        "lon": 76.0135232
+    },
+    {
+        "name": "Civil Hospital Palampur",
+        "district": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.1077609,
+        "lon": 76.5348342
+    },
+    {
+        "name": "COMMUNITY HEALTH CENTRE Shansha",
+        "district": "Lahul & Spiti",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.6153036,
+        "lon": 76.9013759
+    },
+    {
+        "name": "REGIONAL HOSPITAL KULLU",
+        "district": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.9565062,
+        "lon": 77.1118845
+    },
+    {
+        "name": "Civil Hospital Nirmand",
+        "district": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.4231547,
+        "lon": 77.5775362
+    },
+    {
+        "name": "COMMUNITY HEALTH CENTER",
+        "district": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.7708813,
+        "lon": 77.3084847
+    },
+    {
+        "name": "Civil Hospital Manali",
+        "district": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.2387613,
+        "lon": 77.1877726
+    },
+    {
+        "name": "Ayurvedic  Hospital  katrai",
+        "district": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "lat": 32.1028643,
+        "lon": 77.1385476
+    },
+    {
+        "name": "Civil hospital Joginder nagar",
+        "district": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.9905415,
+        "lon": 76.7939146
+    },
+    {
+        "name": "Civil hospital Sandole",
+        "district": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.8556068,
+        "lon": 76.6559941
+    },
+    {
+        "name": "CIVIL  HOSPITAL  GOHAR",
+        "district": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.5827035,
+        "lon": 77.0423577
+    },
+    {
+        "name": "CH NAGWAIN",
+        "district": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.8165672,
+        "lon": 77.1846226
+    },
+    {
+        "name": "REGIONAL HOSPITAL HAMIRPUR",
+        "district": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.6818097,
+        "lon": 76.5256307
+    },
+    {
+        "name": "CIVIL HOSPITAL TAUNI DEVI",
+        "district": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.7135693,
+        "lon": 76.5976342
+    },
+    {
+        "name": "Regional Hospital Una Una",
+        "district": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.4786259,
+        "lon": 76.274018
+    },
+    {
+        "name": "CIVIL HOSPITAL Chintpurni",
+        "district": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.808957,
+        "lon": 76.1046378
+    },
+    {
+        "name": "Primary Health Centre Thanakalan",
+        "district": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.5835429,
+        "lon": 76.3362198
+    },
+    {
+        "name": "COMMUNITY HEALTH CENTRE Bangana",
+        "district": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.6291843,
+        "lon": 76.3399668
+    },
+    {
+        "name": "REGIONAL HOSPITAL BILASPUR",
+        "district": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.3358092,
+        "lon": 76.7647831
+    },
+    {
+        "name": "CIVIL HOSPITAL GHUMARWIN",
+        "district": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.4377602,
+        "lon": 76.7114989
+    },
+    {
+        "name": "Ayurvedic  Hospital KANDRAUR",
+        "district": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.3925221,
+        "lon": 76.7538786
+    },
+    {
+        "name": "E S I  Hospital Parwanoo",
+        "district": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "lat": 30.8400088,
+        "lon": 76.9545239
+    },
+    {
+        "name": "Civil Hospital Kunihar",
+        "district": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.1562535,
+        "lon": 76.9683802
+    },
+    {
+        "name": "AYURVEDIC HOSPITAL NALAGARH",
+        "district": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.0431379,
+        "lon": 76.7162271
+    },
+    {
+        "name": "COMMUNITY HEALTH CENTRE Nalagarh",
+        "district": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.0425857,
+        "lon": 76.7170519
+    },
+    {
+        "name": "Civil Hospital Paonta",
+        "district": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 30.4370722,
+        "lon": 77.6204829
+    },
+    {
+        "name": "Civil Hospital Dadahu",
+        "district": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 30.6009069,
+        "lon": 77.4381021
+    },
+    {
+        "name": "Civil Hospital Sarahan",
+        "district": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 30.7202612,
+        "lon": 77.1882244
+    },
+    {
+        "name": "Civil Hospital THEOG",
+        "district": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.1262178,
+        "lon": 77.3524162
+    },
+    {
+        "name": "Civil Hospital JUBBAL",
+        "district": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.1080566,
+        "lon": 77.6625869
+    },
+    {
+        "name": "Civil Hospital CHOPAL",
+        "district": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 30.947502,
+        "lon": 77.5881925
+    },
+    {
+        "name": "Civil Hospital NERWA",
+        "district": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 30.9190526,
+        "lon": 77.6424073
+    },
+    {
+        "name": "CIVIL HOSPITAL ROHRU",
+        "district": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.2013287,
+        "lon": 77.7519889
+    },
+    {
+        "name": "Regional Hospital Reckong Peo",
+        "district": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.539412,
+        "lon": 78.2670414
+    },
+    {
+        "name": "COMMUNITY HEALTH CENTRE Sangla",
+        "district": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.4300718,
+        "lon": 78.2628706
+    },
+    {
+        "name": "PRIMARY HEALTH CENTRE Nichar",
+        "district": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.5748507,
+        "lon": 77.8855987
+    },
+    {
+        "name": "CHC NIHRI",
+        "district": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "lat": 31.461467,
+        "lon": 77.026933
+    }
+]
