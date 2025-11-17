@@ -72,12 +72,10 @@ This project highlights **geospatial search**, **frontend mapping**, and **API d
 ## 🗂 Project Structure
 
 medi-map/
-│
 ├── backend/
 │ ├── app.py
 │ ├── hospitals.csv
-│ ├── requirements.txt
-│
+│ └── requirements.txt
 ├── src/
 │ ├── App.jsx
 │ ├── hooks/
@@ -98,7 +96,6 @@ medi-map/
 │ │ └── HospitalListItem.jsx
 │ ├── index.js
 │ └── App.css
-│
 └── README.md
 
 
