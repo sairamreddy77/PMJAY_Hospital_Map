@@ -69,38 +69,7 @@ This project highlights **geospatial search**, **frontend mapping**, and **API d
 
 ---
 
-## 🗂 Project Structure
 
-medi-map/
-├── backend/
-│ ├── app.py
-│ ├── hospitals.csv
-│ └── requirements.txt
-├── src/
-│ ├── App.jsx
-│ ├── hooks/
-│ │ └── useUserLocation.js
-│ ├── services/
-│ │ └── backend.js
-│ ├── components/
-│ │ ├── map/
-│ │ │ ├── MapView.jsx
-│ │ │ ├── UserMarker.jsx
-│ │ │ └── HospitalMarkers.jsx
-│ │ ├── ui/
-│ │ │ ├── Button.jsx
-│ │ │ └── Input.jsx
-│ │ └── sidebar/
-│ │ ├── Sidebar.jsx
-│ │ ├── HospitalList.jsx
-│ │ └── HospitalListItem.jsx
-│ ├── index.js
-│ └── App.css
-└── README.md
-
-
-
----
 
 ## ⚙️ Setup Instructions
 
