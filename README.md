@@ -65,8 +65,6 @@ This project highlights **geospatial search**, **frontend mapping**, and **API d
 - Supports requests like:
 /nearest?lat=xx&lon=yy&limit=10
 /nearest?pin=xxxxx&limit=10
-
-text
 - Returns clean JSON responses.
 
 ---
@@ -103,7 +101,7 @@ medi-map/
 │
 └── README.md
 
-text
+
 
 ---
 
@@ -113,8 +111,6 @@ text
 git clone https://github.com/yourusername/medi-map.git
 cd medi-map
 
-text
-
 ---
 
 ### 🖥️ Frontend Setup (React)
@@ -123,12 +119,8 @@ Install dependencies:
 cd medi-map
 npm install
 
-text
-
 Run the development server:
 npm start
-
-text
 
 ---
 
@@ -138,12 +130,8 @@ Install dependencies:
 cd backend
 pip install -r requirements.txt
 
-text
-
 Run the backend server:
 python app.py
-
-text
 
 Backend runs at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
@@ -154,12 +142,12 @@ Backend runs at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 ### 1. Nearest by GPS
 GET /nearest?lat=26.12&lon=91.75&limit=10
 
-text
+
 
 ### 2. Nearest by PIN
 GET /nearest?pin=781001&limit=10
 
-text
+
 
 **Example JSON Response:**
 [
@@ -173,16 +161,6 @@ text
 }
 ]
 
-text
-
----
-
-## 📸 Screenshots (Add Actual Images)
-
-- [ ] Home Screen  
-- [ ] Map + Sidebar View  
-- [ ] PIN-based Search  
-- [ ] Marker Popups  
 
 ---
 
@@ -256,11 +234,4 @@ It demonstrates skills in:
 - Flask backend development  
 - Data preprocessing and geocoding  
 
-Perfect as a **portfolio project** and a strong addition to **interview discussions**.
 
----
-
-### 👨‍💻 Author
-Developed by **[Your Name]**  
-📧 Email: your.email@example.com  
-🌐 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
